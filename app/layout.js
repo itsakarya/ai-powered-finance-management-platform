@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
         {/* footer */}
         <footer className="bg-blue-100 py-10">
           <div className="container mx-auto px-4 text-center text-gray-500">
-            I&apos;m a chill guy
+            Made with ❤️ by chill guy :)
           </div>
         </footer>
       </body>
