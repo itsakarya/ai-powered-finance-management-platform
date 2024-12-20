@@ -19,8 +19,8 @@ export default function RootLayout({ children }) {
         <Header />
         <main className="min-h-screen">{children}</main>
         {/* footer */}
-        <footer className="bg-blue-100 py-10">
-          <div className="container mx-auto px-4 text-center text-gray-500">
+        <footer className="bg-blue-50 py-10">
+          <div className="container mx-auto px-4 text-center text-gray-600">
             Made with ❤️ by chill guy :)
           </div>
         </footer>
